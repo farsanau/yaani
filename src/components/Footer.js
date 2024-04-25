@@ -33,7 +33,7 @@ const Footer =()=>{
           </svg>
         </div>
         <div className="contact-box__info">
-          <a href="#" className="contact-box__info--title">info@company.com</a>
+          <a href="#" className="contact-box__info--title">info@yaani.com</a>
           <p className="contact-box__info--subtitle">Online support</p>
         </div>
       </div>
@@ -51,7 +51,7 @@ const Footer =()=>{
         </div>
         <div className="contact-box__info">
           <a href="#" className="contact-box__info--title">Finland</a>
-          <p className="contact-box__info--subtitle">NY 10012,ES</p>
+          <p className="contact-box__info--subtitle">Aurinkokaatu,ESPOO</p>
         </div>
       </div>
     </div>
@@ -79,7 +79,7 @@ const Footer =()=>{
   <div className="container mt-5">
     <div className="row text-white justify-content-center mt-3 pb-3">
       <div className="col-12 col-sm-6 col-lg-6 mx-auto">
-        <h5 className="text-capitalize fw-bold">Campany name</h5>
+        <h5 className="text-capitalize fw-bold">Yaani</h5>
         <hr className="bg-white d-inline-block mb-4" style={{width: 60, height: 2}}/>
         <p className="lh-lg">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ex obcaecati blanditiis reprehenderit ab mollitia voluptatem consectetur?
@@ -89,10 +89,11 @@ const Footer =()=>{
         <h5 className="text-capitalize fw-bold">Products</h5>
         <hr className="bg-white d-inline-block mb-4" style={{width: 60, height: 2,backgroundColor:"black"}}/>
         <ul className="list-inline campany-list">
-          <li><a href="#">Lorem ipsum</a></li>
-          <li><a href="#">Lorem ipsum</a></li>
-          <li><a href="#">Lorem ipsum</a></li>
-          <li><a href="#">Lorem ipsum</a></li>
+          <li><a href="#">Consulting</a></li>
+          <li><a href="#">Software development</a></li>
+          <li><a href="#">System integration</a></li>
+          <li><a href="#">Cybersecurity</a></li>
+          <li><a href="#"> Cloud computing</a></li>
         </ul>
       </div>
       <div className="col-12 col-sm-6 col-lg-2 mb-4 mx-auto">
@@ -124,7 +125,7 @@ const Footer =()=>{
       <div className="row text-center text-white">
         <div className="col-12">
           <div className="footer-bottom__copyright">
-            &COPY; Copyright 2024 <a href="#">Company</a> | Created by <a href="http://codewithpatrick.com" target="_blank">neenu</a><br/>
+             Copyright 2024 <a href="#">Yaani</a> | Created by <a href="http://codewithpatrick.com" target="_blank">Yaani</a><br/>
 
             Distributed by <a href="http://themewagon.com" target="_blank">Yaani</a>
           </div>

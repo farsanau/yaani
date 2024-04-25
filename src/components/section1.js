@@ -15,8 +15,7 @@ const Section1 = ()=>{
         <h1 className="display-2">
           <span className="display-2--intro">Hey!, we're YAANI</span>
           <span className="display-2--description lh-base">
-            this is a multi-purpose responsive layout created with bootstrap v5. 
-            (here your can place your description text)
+          We specialize in IT consulting and services, providing tailored solutions to meet our clients' diverse technology needs.
           </span>
         </h1>
         <button type="button" className="rounded-pill btn-rounded">Get in Touch
