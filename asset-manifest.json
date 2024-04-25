@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/yaani/static/js/main.899d8920.js",
+    "main.js": "/yaani/static/js/main.c994c272.js",
     "static/media/intro-section-illustration.png": "/yaani/static/media/intro-section-illustration.fc209d35b4456faefb01.png",
     "static/media/service-2.png": "/yaani/static/media/service-2.7010500eff3a74e540d2.png",
     "static/media/service-1.png": "/yaani/static/media/service-1.59f90140f1085c33d923.png",
     "static/media/service-3.png": "/yaani/static/media/service-3.57f899bfdd8a29d299e5.png",
     "index.html": "/yaani/index.html",
-    "main.899d8920.js.map": "/yaani/static/js/main.899d8920.js.map"
+    "main.c994c272.js.map": "/yaani/static/js/main.c994c272.js.map"
   },
   "entrypoints": [
-    "static/js/main.899d8920.js"
+    "static/js/main.c994c272.js"
   ]
 }
